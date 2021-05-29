@@ -1,0 +1,27 @@
+
+.center-box{
+    background-color: rgb(4, 4, 105);
+    height: 300px;
+    width: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.center-item {
+    background-color: antiquewhite;
+    height: 100px;
+    width: 100px;
+    
+}
+p{
+    font-family: cursive;
+    font-weight: bold;
+    padding-left: 630px;
+    font-size: 30px;
+    color: rgb(68, 20, 68);
+    justify-content: center;
+}
+p{
+    margin-left: 10px;
+}
